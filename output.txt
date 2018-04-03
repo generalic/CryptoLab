@@ -1,0 +1,2 @@
+Laboratorijske vježbe se mogu ostvariti u bilo kojem programskom jeziku i u
+bilo kojem okruženju, tj. u bilo kojem operacijskom sustavu.

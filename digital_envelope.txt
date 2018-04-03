@@ -1,0 +1,21 @@
+---BEGIN OS2 CRYPTO DATA---
+
+Description:
+Envelope
+
+File Name:
+/Users/generalic/Documents/projects/CryptoLab/text.txt
+
+Method:
+AES | RSA
+
+Key Length:
+0x0100 | 0x0400
+
+Envelope Data:
+9fthLK53Vq3SZZkA0wKLZX5y6jiVL81KKEAUANCnjPIr+vEYmmkP/mkLjUJvhSJ9T2XHupnmuLogtWPWr1CFoQPDL5HMBkiv7O0l11KymtvBpIQFVraTvSCHnUp0hBSt3tJBCGQawC2gAXhDcFDRonMJgf3WWquPs
+
+Envelope Crypt Key:
+DSeKzLRtgZRZh/wmLvip5D/q/+1aundbfSsbaRn18XGBcMG5/xslpUmyyUx+NKIAfzwtM3S3rAH72bJiFgV8iIi2lOky9+P1d70XD7SbnUflm6CSLinC94LBPBvfMfSWphy70Co9jvPwLto7b0dczEBaQqJFLPTdM1wU799LKxM=
+
+---END OS2 CRYPTO DATA---

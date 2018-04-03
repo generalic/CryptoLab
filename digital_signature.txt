@@ -1,0 +1,18 @@
+---BEGIN OS2 CRYPTO DATA---
+
+Description:
+Signature
+
+File Name:
+/Users/generalic/Documents/projects/CryptoLab/digital_envelope.txt
+
+Method:
+MD5 | RSA
+
+Key Length:
+0xA0 | 0x0400
+
+Signature:
+YTSI0V+wGDtWq/HaHNfdxKnVhPpLStKYWqWXCCeflDkJbeVcUdyIle1/72Da677xQKKBY7q4NxW5ueV6MLoLUEQDAfxnliyo+VxtBzGapjz141AsD/t9M4vXnco2NnEOi9p/JNQF0oAQGyLr7OSQzogc+y6dC6aJxKr4a3HxWpM=
+
+---END OS2 CRYPTO DATA---
